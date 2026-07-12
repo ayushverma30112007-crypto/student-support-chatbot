@@ -1,8 +1,8 @@
 # 📄 AI-Powered Document Q&A Chatbot (RAG-based)
 
 An intelligent chatbot that lets users upload **any document** — large handbooks, private records, research papers, internal company files, policy documents, etc. — and get instant, accurate answers to specific questions, without having to manually search through hundreds of pages.
-
-🔗 **Live Demo:** _[add your Streamlit Cloud link here after deployment]_
+t
+🔗 **Live Demo:** _[https://student-support-chatbot-ksxvaqp6qmmwxj2gd5rspv.streamlit.app/]_
 
 ---
 
@@ -85,25 +85,6 @@ document-qa-chatbot/
 - ⚡ **Fast inference** via Groq's LPU-accelerated infrastructure
 - 🔄 **Auto re-indexing** when new documents are uploaded
 - 🌐 **Free to build, run, and deploy** — no paid infrastructure required
-
----
-
-## 🚀 Running Locally
-
-Clone the repository:
-git clone https://github.com/YOUR_USERNAME/document-qa-chatbot.git
-cd document-qa-chatbot
-
-Install dependencies:
-pip install -r requirements.txt
-
-Add your Groq API key to .streamlit/secrets.toml:
-GROQ_API_KEY = "your_key_here"
-
-Run the app:
-python -m streamlit run app.py
-
-Free Groq API key: https://console.groq.com/keys
 
 ---
 
