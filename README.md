@@ -1,4 +1,4 @@
-# 📄 AI-Powered Document Q&A Chatbot (RAG-based)
+# 📄AI Chatbot for Student Support Services  
 
 An intelligent chatbot that lets users upload **any document** — large handbooks, private records, research papers, internal company files, policy documents, etc. — and get instant, accurate answers to specific questions, without having to manually search through hundreds of pages.
 t
